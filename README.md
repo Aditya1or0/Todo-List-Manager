@@ -55,7 +55,7 @@ A responsive web application built using **React.js** to manage tasks. The app a
    ```
 
    ````node
-   npm run server
+   npm run dev
 
    Or with yarn:
 
