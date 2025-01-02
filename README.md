@@ -23,7 +23,7 @@ A responsive web application built using **React.js** to manage tasks. The app a
 
 ### Prerequisites:
 
-- **Node.js** (>= 14.0.0)
+- **Node.js** 
 - **npm** or **yarn**
 
 ### Steps to run the project locally:
